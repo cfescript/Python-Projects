@@ -2,7 +2,7 @@ import os
 
 
 
-fPath = "E:\\Programming\\Python\\A\\"
+fPath = "D:/Desktop/Python Test/Created Files/"
 
 dirContent = os.listdir(fPath)
 absDir = []
